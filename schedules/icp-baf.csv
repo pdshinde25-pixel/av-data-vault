@@ -1,1 +1,5 @@
-
+CourseID,ScheduleID,DisplayDate,Timezone,Format,Price,OldPrice,TrainerName,TrainerBio,TrainerImg,TrainerLinkedIn
+icp-baf,BAF-MAR18-IP,"March 18, 19, 20","11 am - 3:30 pm EST | 4 pm - 8:30 pm UK","Live Online",549,1499,"Ilija Popjanev","Expert Business Agility Lead","assets/trainers/ilija.png","https://linkedin.com/in/prashantshinde"
+icp-baf,BAF-APR15-IP,"April 15, 16, 17","11 am - 3:30 pm EST | 4 pm - 8:30 pm UK","Live Online",549,1499,"Ilija Popjanev","Expert Business Agility Lead","assets/trainers/ilija.png","https://linkedin.com/in/prashantshinde"
+icp-baf,BAF-MAY13-IP,"May 13, 14, 15","11 am - 3:30 pm EST | 4 pm - 8:30 pm UK","Live Online",549,1499,"Ilija Popjanev","Expert Business Agility Lead","assets/trainers/ilija.png","https://linkedin.com/in/prashantshinde"
+icp-baf,BAF-JUN17-IP,"June 17, 18, 19","11 am - 3:30 pm EST | 4 pm - 8:30 pm UK","Live Online",549,1499,"Ilija Popjanev","Expert Business Agility Lead","assets/trainers/ilija.png","https://linkedin.com/in/prashantshinde"
