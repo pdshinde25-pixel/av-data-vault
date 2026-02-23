@@ -1,1 +1,11 @@
-
+CourseID,ScheduleID,DisplayDate,Timezone,Format,Price,OldPrice,TrainerName,TrainerBio,TrainerImg,TrainerLinkedIn
+icp-sys,SYS-MAR09-AS,"March 9, 10, 11","8 AM - 12 PM EST | 1 PM - 5 PM UK","Live Online",749,1999,"Ajeet Singh","Expert Systems Coaching Lead","assets/trainers/ajeet.png","https://linkedin.com/in/prashantshinde"
+icp-sys,SYS-FEB07-AV,"Feb 7, 8, 14","8 am - 12 pm India | 10:30 am - 2:30 pm Singapore | 1 pm - 5 pm Sydney","Live Online",749,1999,"Ajeet / Venky","Expert Systems Coaching Leads","assets/trainers/ajeet-venky.png","https://linkedin.com/in/prashantshinde"
+icp-sys,SYS-FEB21-AV,"Feb 21, 22, 28","8 am - 12 pm London | 12 pm - 4 pm India | 3 pm - 7 pm Singapore","Live Online",749,1999,"Ajeet / Venky","Expert Systems Coaching Leads","assets/trainers/ajeet-venky.png","https://linkedin.com/in/prashantshinde"
+icp-sys,SYS-MAR07-AV,"Mar 7, 8, 14","8 am - 12 pm India | 10:30 am - 2:30 pm Singapore | 1 pm - 5 pm Sydney","Live Online",749,1999,"Ajeet / Venky","Expert Systems Coaching Leads","assets/trainers/ajeet-venky.png","https://linkedin.com/in/prashantshinde"
+icp-sys,SYS-MAR21-AV,"Mar 21, 22, 28","8 am - 12 pm London | 1 pm - 5 pm India | 4 pm - 8 pm Singapore","Live Online",749,1999,"Ajeet / Venky","Expert Systems Coaching Leads","assets/trainers/ajeet-venky.png","https://linkedin.com/in/prashantshinde"
+icp-sys,SYS-APR04-AV,"Apr 4, 5, 11","8 am - 12 pm India | 10:30 am - 2:30 pm Singapore | 2 pm - 6 pm Sydney","Live Online",749,1999,"Ajeet / Venky","Expert Systems Coaching Leads","assets/trainers/ajeet-venky.png","https://linkedin.com/in/prashantshinde"
+icp-sys,SYS-APR06-AA,"April 6, 7, 8","8 AM - 12 PM EST | 1 PM - 5 PM UK","Live Online",749,1999,"Ajeet / Ashish","Expert Systems Coaching Leads","assets/trainers/ajeet-ashish.png","https://linkedin.com/in/prashantshinde"
+icp-sys,SYS-APR18-AV,"Apr 18, 19, 25","8 am - 12 pm London | 12 pm - 4 pm India | 3 pm - 7 pm Singapore","Live Online",749,1999,"Ajeet / Venky","Expert Systems Coaching Leads","assets/trainers/ajeet-venky.png","https://linkedin.com/in/prashantshinde"
+icp-sys,SYS-MAY06-AA,"May 6, 7, 8","8 AM - 12 PM EST | 1 PM - 5 PM UK","Live Online",749,1999,"Ajeet / Ashish","Expert Systems Coaching Leads","assets/trainers/ajeet-ashish.png","https://linkedin.com/in/prashantshinde"
+icp-sys,SYS-JUN15-AA,"June 15, 16, 17","8 AM - 12 PM EST | 1 PM - 5 PM UK","Live Online",749,1999,"Ajeet / Ashish","Expert Systems Coaching Leads","assets/trainers/ajeet-ashish.png","https://linkedin.com/in/prashantshinde"
