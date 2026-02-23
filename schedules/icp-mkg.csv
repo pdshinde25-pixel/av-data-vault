@@ -1,1 +1,5 @@
+CourseID,ScheduleID,DisplayDate,Timezone,Format,Price,OldPrice,TrainerName,TrainerBio,TrainerImg,TrainerLinkedIn
+icp-mkg,MKG-MAR23-IP,"March 23, 24, 25","11 am - 3:30 pm EST | 4 pm - 8:30 pm UK","Live Online",699,1499,"Ilija Popjanev","Expert Marketing Agility Lead","assets/trainers/ilija.png","https://linkedin.com/in/prashantshinde"
+icp-mkg,MKG-MAY06-IP,"May 6, 7, 8","11 am - 3:30 pm EST | 4 pm - 8:30 pm UK","Live Online",699,1499,"Ilija Popjanev","Expert Marketing Agility Lead","assets/trainers/ilija.png","https://linkedin.com/in/prashantshinde"
+icp-mkg,MKG-JUN10-AN,"June 10, 11, 12","8 AM - 12:30 PM EST | 1 PM - 5:30 PM UK","Live Online",699,1499,"Ashish / Nivarti","Expert Agile Transformation Leads","assets/trainers/ashish-nivarti.png","https://linkedin.com/in/prashantshinde"
 
