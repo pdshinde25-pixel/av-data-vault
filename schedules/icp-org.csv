@@ -1,1 +1,5 @@
+CourseID,ScheduleID,DisplayDate,Timezone,Format,Price,OldPrice,TrainerName,TrainerBio,TrainerImg,TrainerLinkedIn
+icp-org,ORG-MAR16-IP,"March 16, 17, 18","8 am - 12:30 pm EST | 1 pm - 5:30 pm UK","Live Online",899,1999,"Ilija Popjanev","Expert Organization Design Lead","assets/trainers/ilija.png","https://linkedin.com/in/prashantshinde"
+icp-org,ORG-MAY04-AN,"May 4, 5, 6","8 AM - 12:30 PM EST | 1 PM - 5:30 PM UK","Live Online",899,1999,"Ashish / Nivarti","Expert Organization Design Leads","assets/trainers/ashish-nivarti.png","https://linkedin.com/in/prashantshinde"
+icp-org,ORG-JUN01-MN,"June 1, 2, 3","8 AM - 12:30 PM EST | 1 PM - 5:30 PM UK","Live Online",899,1999,"Mansoor / Nivarti","Expert Organization Design Leads","assets/trainers/mansoor-nivarti.png","https://linkedin.com/in/prashantshinde"
 
