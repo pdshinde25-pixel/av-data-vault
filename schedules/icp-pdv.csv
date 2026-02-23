@@ -1,1 +1,6 @@
+CourseID,ScheduleID,DisplayDate,Timezone,Format,Price,OldPrice,TrainerName,TrainerBio,TrainerImg,TrainerLinkedIn
+icp-pdv,PDV-MAR09-NJ,"March 9, 10, 11","8 AM - 12:30 PM EST | 1 PM - 5:30 PM UK","Live Online",849,1999,"Nivarti Jayaram","Expert People Development Lead","assets/trainers/nivarti.png","https://linkedin.com/in/prashantshinde"
+icp-pdv,PDV-APR13-AN,"April 13, 14, 15","8 AM - 12:30 PM EST | 1 PM - 5:30 PM UK","Live Online",849,1999,"Ashish / Nivarti","Expert People Development Leads","assets/trainers/ashish-nivarti.png","https://linkedin.com/in/prashantshinde"
+icp-pdv,PDV-MAY18-AN,"May 18, 19, 20","8 AM - 12:30 PM EST | 1 PM - 5:30 PM UK","Live Online",849,1999,"Ashish / Nivarti","Expert People Development Leads","assets/trainers/ashish-nivarti.png","https://linkedin.com/in/prashantshinde"
+icp-pdv,PDV-JUN15-IN,"June 15, 16, 17","12 pm - 4:30 pm EST | 5 pm - 9:30 pm UK","Live Online",849,1999,"Ilija / Nivarti","Expert People Development Leads","assets/trainers/ilija-nivarti.png","https://linkedin.com/in/prashantshinde"
 
