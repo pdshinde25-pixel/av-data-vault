@@ -1,1 +1,10 @@
-
+CourseID,ScheduleID,DisplayDate,Timezone,Format,Price,OldPrice,TrainerName,TrainerBio,TrainerImg,TrainerLinkedIn
+icp-apo,APO-MAR16-AP,"March 16, 17, 18","8 AM - 12:30 PM EST | 1 PM - 5:30 PM UK","Live Online",749,1999,"Ashish / Prashant","Expert Agile Transformation Leads","assets/trainers/ashish-prashant.png","https://linkedin.com/in/prashantshinde"
+icp-apo,APO-FEB07-AA,"Feb 7, 8, 14","8 am - 12:30 pm India | 10:30 am - 3 pm Singapore | 1 pm - 5:30 pm Sydney","Live Online",749,1999,"Ankit / Ashish","Expert Agile Transformation Leads","assets/trainers/ankit-ashish.png","https://linkedin.com/in/prashantshinde"
+icp-apo,APO-FEB21-AA,"Feb 21, 22, 28","8 am - 12:30 pm London | 1:30 pm - 6 pm India | 4 pm - 8:30 pm Singapore","Live Online",749,1999,"Ankit / Ashish","Expert Agile Transformation Leads","assets/trainers/ankit-ashish.png","https://linkedin.com/in/prashantshinde"
+icp-apo,APO-MAR07-AA,"Mar 7, 8, 14","8 am - 12:30 pm India | 10:30 am - 3 pm Singapore | 1 pm - 5:30 pm Sydney","Live Online",749,1999,"Ankit / Ashish","Expert Agile Transformation Leads","assets/trainers/ankit-ashish.png","https://linkedin.com/in/prashantshinde"
+icp-apo,APO-MAR21-AA,"Mar 21, 22, 28","8 am - 12:30 pm London | 1:30 pm - 6 pm India | 4 pm - 8:30 pm Singapore","Live Online",749,1999,"Ankit / Ashish","Expert Agile Transformation Leads","assets/trainers/ankit-ashish.png","https://linkedin.com/in/prashantshinde"
+icp-apo,APO-APR04-AA,"Apr 4, 5, 11","8 am - 12:30 pm India | 10:30 am - 3 pm Singapore | 2 pm - 6:30 pm Sydney","Live Online",749,1999,"Ankit / Ashish","Expert Agile Transformation Leads","assets/trainers/ankit-ashish.png","https://linkedin.com/in/prashantshinde"
+icp-apo,APO-APR04-AK,"April 4, 5","8 am - 3 pm EST | 1 pm - 8 pm UK","Live Online",749,1999,"Ashish Kumar","Expert Agile Transformation Lead","assets/trainers/ashish.png","https://linkedin.com/in/prashantshinde"
+icp-apo,APO-APR18-AA,"Apr 18, 19, 25","8 am - 12:30 pm London | 12:30 pm - 5 pm India | 3 pm - 7:30 pm Singapore","Live Online",749,1999,"Ankit / Ashish","Expert Agile Transformation Leads","assets/trainers/ankit-ashish.png","https://linkedin.com/in/prashantshinde"
+icp-apo,APO-JUN06-AK,"June 6, 7","8 am - 3 pm EST | 1 pm - 8 pm UK","Live Online",749,1999,"Ashish Kumar","Expert Agile Transformation Lead","assets/trainers/ashish.png","https://linkedin.com/in/prashantshinde"
