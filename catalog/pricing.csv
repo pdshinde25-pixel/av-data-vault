@@ -1,0 +1,23 @@
+CourseID,Title,USD,EUR,GBP,SGD,AUD,AED,INR
+icp-acc,Agile Coaching Certification (ICP-ACC),539,479,419,699,799,1999,19999
+icp-atf,Agile Team Facilitation (ICP-ATF),529,469,409,689,769,1899,17999
+icp-cat,Coaching Agile Transformations (ICP-CAT),598,529,469,799,879,2199,19999
+icp-ent,Enterprise Agile Coaching (ICP-ENT),599,529,469,799,879,2199,19999
+icp-sys,Systems Coaching (ICP-SYS),749,669,589,999,1099,2799,19999
+icp-apo,Product Ownership (ICP-APO),749,669,589,999,1099,2799,21999
+icp-pdm,Product Management (ICP-PDM),899,799,699,1199,1299,3399,24999
+icp-apm,Agile Project & Delivery Management (ICP-APM),699,629,549,929,999,2599,19999
+icp-lpm,Lean Portfolio Management (ICP-LPM),1199,1099,939,1599,1799,4499,29999
+icp-lea,Agile Leadership (ICP-LEA),749,669,589,999,1099,2799,22999
+icp-pdv,People Development (ICP-PDV),749,669,589,999,1099,2799,19999
+icp-org,Adaptive Org Design (ICP-ORG),849,749,659,1099,1199,3199,19999
+icp-icp,Agile Fundamentals (ICP),499,449,389,649,729,1899,17999
+icp-baf,Business Agility Foundations (ICP-BAF),599,529,469,799,879,2199,17999
+icp-mkg,Marketing Agility (ICP-MKG),799,709,629,1049,1199,2999,19999
+icp-fai,Foundations of AI (ICP-FAI),599,529,469,799,879,2199,17999
+ai-product-discovery,AI for Product Discovery,199,179,159,259,299,799,8999
+ai-product-planning,AI for Product Planning,199,179,159,259,299,799,8999
+ai-product-metrics,AI for Product Metrics,199,179,159,259,299,799,8999
+ai-product-strategy,AI for Product Strategy,199,179,159,259,299,799,8999
+ai-customer-insights,AI for Customer Insights,199,179,159,259,299,799,8999
+ai-stakeholder-management,AI for Customer Insights,199,179,159,259,299,799,8999
